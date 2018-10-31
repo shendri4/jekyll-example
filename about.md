@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 #yml front matter, to tell jekyll to generate new page
+
 This is an about page about this awesome site.
 Hope you love it!
 
